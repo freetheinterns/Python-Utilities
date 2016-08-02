@@ -1,8 +1,8 @@
 # Created By: Theodore Tenedorio
 # Date: 10/29/2015
 # Requires: Python2.7 & openpyxl
-# 'https://pypi.python.org/pypi/openpyxl' or 'pip install openpyxl'
 
+# 'https://pypi.python.org/pypi/openpyxl' or 'pip install openpyxl'
 from openpyxl import load_workbook
 
 # Reads the active worksheet of .xlsx (MS Excel 2010) into an array of columns.
